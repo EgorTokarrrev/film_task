@@ -62,7 +62,7 @@ function detetectPersonalLevel() {
         console.log('Произошла ошибка')
     }
 }
-// detetectPersonalLevel();
+// detetectPersonalLevel(); 
 
 function showMyDB(hidden) {
 if (!hidden) {
